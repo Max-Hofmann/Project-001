@@ -8,3 +8,5 @@ mean(x)
 
 
 sd(x)
+
+sd
