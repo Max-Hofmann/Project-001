@@ -10,3 +10,7 @@ mean(x)
 sd(x)
 
 sd
+
+
+min(x)
+max(x)
