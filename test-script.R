@@ -3,6 +3,7 @@
 x<-c(1:10)
 y<-x^2
 z<-x^3
+ä<-x^4
 
 
 df<-data.frame(x,y,z)
