@@ -3,9 +3,11 @@
 x<-c(1:10)
 y<-x^2
 z<-x^3
-ä<-x^4
+ae<-x^4
+lsgretreat<-x*10
 
 
-df<-data.frame(x,y,z)
+
+df<-data.frame(x,y,z,ae,lsgretreat)
 
 write.csv(df, "C:/Users/Max/Desktop/git_local_test/Project-001/output01.csv", row.names=F)
